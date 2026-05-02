@@ -1,5 +1,5 @@
 ---
-title: Quartz 4
+title: Avventure a Thalen
 ---
 
 This is a blank Quartz installation.

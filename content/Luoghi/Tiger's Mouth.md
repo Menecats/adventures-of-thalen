@@ -1,0 +1,7 @@
+The Tiger's Mouth is a vast mountain range stretching across the continent from north-west to south-east, forming one of the most important natural barriers in the region. The chain is composed of numerous rugged peaks and steep ridges that dominate the surrounding landscape.
+
+Among its many summits, the most notable is [[Mount Black Scar]], located near the center of the range. This dark-hued peak, rising to about 2500 meters, is marked by a deep ravine that cleaves its upper slopes and gives the mountain a twin-summit silhouette. Miners from the small settlement at the ravine's base quarry the unusual black stone, and though life on its wind-swept slopes is harsh, the peak is wrapped in local rumor: during fierce storms echoing howls are sometimes heard from the scar.
+
+Many of the region's rivers originate from springs and melting snow within these mountains, flowing down toward the forests and lowlands below and shaping the surrounding ecosystems.
+
+Because of its height and length, the Tiger's Mouth also acts as a rain barrier. Warm, humid winds arriving from the south-west are forced to rise along the mountains, releasing most of their moisture on the western slopes. As a result, the range prevents much of this humidity from reaching the north-east, effectively dividing the continent into two distinct biomes.

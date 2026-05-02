@@ -1,0 +1,12 @@
+# Ignore GM files
+GM - *
+* - GM
+* - GM.*
+
+# Ignore incomplete/work in progress files
+TODO - *
+* - TODO
+* - TODO.*
+WIP - *
+* - WIP
+* - WIP.*

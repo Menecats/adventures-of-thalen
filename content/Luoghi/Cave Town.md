@@ -1,0 +1,12 @@
+Located ad the just outside the base of the great scar that splits [[Mount Black Scar]], Cave Town is a small and rugged settlement of no more than a hundred inhabitants.
+
+Unlike most settlements in the region, Cave Town is not build upon the land but within it. Many of its structures are carved directly in the mountain's black stone, forming a network of shallow caves, reinforced chambers, and narrow passage that provide shelter from the relentless winds that sweep down from above. Wooden scaffolding, rope lifts and roughly cut stairways connect the various levels of the settlement, giving the town a vertical and almost precarious layout.
+
+The town is linked to the outside world by a winding gravel path that descend eastward.
+The first stop along this route is the small hamlet of [[Gravel's Rest]] a sparse roadside settlement built around a natural bend in the cliffs where travelers and caravans can recover before continuing onward toward [[Moonglave]] and the lowlands beyond. Though more accessible than the forest paths below, the road remains exposed and treacherous, hugging ridgelines where loose gravel and sudden gusts can easily turn travel into a dangerous endeavor.
+
+A far more direct, but significantly more dangerous, path branches of from the southern edge of Cave Town. This steep mountain trail descends sharply along the rock face, following the course of a narrow stream as it cuts its way downward toward [[Lindle Creek]]. The journey can be completed in a matter of days, but the route is unstable, often slick with moisture, and prone to sudden rockfalls. Few attempt it without necessity.
+
+Cave Town exists primarily as a mining community. Its people quarry the mountain's distinctive black stone, prized for its durability and appearance, which is exported to more populated regions for construction. Alongside this, smaller quantities of rare minerals and crystalline formations are occasionally uncovered within the deeper veins of the mountain, bringing intermittent bursts of wealth and attention to the otherwise isolated town.
+
+Life in Cave Town is harsh and defined by labor. The air is thin and cold, vegetation is nearly nonexistent, and the constant echo of tools against stone fills the settlement from dawn until dusk. At night, when the work ceases and the winds rise, the mountain seems to come alive. From within the great scar, distant and hollow sounds echo through the rock. No one in Cave Town can truly explain them, yet no one dares to dismiss them either.

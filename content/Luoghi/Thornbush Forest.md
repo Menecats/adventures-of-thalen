@@ -1,0 +1,7 @@
+Thornbush Forest is a vast woodland stretching from the western coast of the continent to the foothills of the [[Tiger's Mouth]] mountain range. It forms a broad natural barrier between the sea and the highlands, shaping both travel and trade across the region.
+
+The forest is divided from north to south by the [[Amber River]], whose slow and winding waters carve a natural corridor through the dense vegetation. Along its banks the undergrowth thins, giving way to marshy clearings and fertile soil that support the settlement of [[Moonglave]], which relies on the river for transport, fishing, and cultivation. Deeper into the forest, however, the canopy grows thicker and older, and the terrain becomes wild and difficult to traverse.
+
+Thornbush is considered an ancient and biodiverse woodland. Towering oaks, twisted pines, and thick clusters of thorned shrubs dominate much of its interior, giving the forest its name. In many areas, sunlight barely reaches the forest floor, where moss, roots, and tangled brambles make travel slow and uncertain. Wildlife is abundant and often dangerous; predators and territorial creatures patrol the forest, making unprepared travelers vulnerable.
+
+Despite its wild nature, the forest encompasses several settlements, most notably [[Moonglave]] and [[Lindle Creek]]. These communities survive by relying on its resources while carefully respecting its dangers. Well-known paths connect the villages, but beyond them the forest quickly becomes disorienting, and those who stray too far often struggle to find their way back.
