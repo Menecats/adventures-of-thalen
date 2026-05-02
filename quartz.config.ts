@@ -1,6 +1,15 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+const ignoreRegExp: RegExp[] = [
+  /^GM\s*-/,
+  /-\s*GM(?:\.[^.]+)?$/,
+  /^TODO\s*-/,
+  /-\s*TODO(?:\.[^.]+)?$/,
+  /^WIP\s*-/,
+  /-\s*WIP(?:\.[^.]+)?$/,
+]
+
 /**
  * Quartz 4 Configuration
  *
@@ -18,6 +27,10 @@ const config: QuartzConfig = {
     locale: "it-IT",
     baseUrl: "menecats.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
+    ignoreFunction: (path) => {
+      const pathChunks = path.split("/")
+      return pathChunks.some((v) => ignoreRegExp.some((r) => r.test(v)))
+    },
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
