@@ -20,20 +20,20 @@ La loro sparizione ha lasciato un vuoto significativo. Le regioni un tempo sotto
 ---
 ## Regioni e insediamenti
 ### Foreste e fiumi
-- [[Thornbush Forest]]
-- [[Amber River]]
+- [[Thornbush Forest|Foresta di Thornbush]]
+- [[Amber River|Fiume Amber]]
 - [[Moonglave]]
 - [[Lindle Creek]]
 ### Montagne e alture
-- [[Tiger's Mouth]]
-- [[Mount Black Scar]]
+- [[Tiger's Mouth|Bocca della Tigre]]
+- [[Mount Black Scar|Monte Squarcio Nero]]
 - [[Cave Town]]
 ### Costa e promontori
-- [[Crows' Peak]]
+- [[Crows' Peak|Picco dei Corvi]]
 - [[Mountport]]
 
 ## Eventi e storia recente
-- [[The Plague]]
+- [[The Plague|La Piaga]]
 
 ---
 
