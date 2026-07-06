@@ -9,7 +9,7 @@ A sud-ovest si innalza il [[Crows' Peak|Picco dei Corvi]], affacciato sul mare a
 
 A est e a nord si trovano le imponenti montagne della [[Tiger's Mouth|Bocca della Tigre]], una catena che influenza il clima e separa biomi distinti, mentre al suo interno si innalza il solitario [[Mount Black Scar|Monte Squarcio Nero]], segnato da una profonda cicatrice naturale.
 
-Tra foreste, montagne e fiumi sorgono piccoli insediamenti che sopravvivono grazie a un delicato equilibrio tra commercio, risorse naturali e adattamento a un ambiente spesso ostile.
+Tra foreste, montagne, fiumi e coste sorgono insediamenti molto diversi tra loro: porti corrosi da acque innaturali, villaggi minerari, antiche capitali quasi dimenticate e luoghi in cui la magia conserva ancora una stabilità rara.
 
 ## Il mondo dopo la grande piaga
 
@@ -28,9 +28,17 @@ La loro sparizione ha lasciato un vuoto significativo. Le regioni un tempo sotto
 - [[Tiger's Mouth|Bocca della Tigre]]
 - [[Mount Black Scar|Monte Squarcio Nero]]
 - [[Cave Town]]
+- [[Moonwatch Observatory|Osservatorio di Moonwatch]]
 ### Costa e promontori
 - [[Crows' Peak|Picco dei Corvi]]
 - [[Mountport]]
+- [[Bitterport|Porto Aspro]]
+### Regni e città lontane
+- [[Gevonim]]
+### Luoghi sacri e nodi naturali
+- [[Pillars of Nature|Pilastri della Natura]]
+- [[The Silent Guardian|Custode Silenzioso]]
+- [[The Old of the Glade|Vecchio della Radura]]
 
 ## Eventi e storia recente
 - [[The Plague|La Piaga]]
